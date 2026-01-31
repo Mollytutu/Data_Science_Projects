@@ -1,4 +1,4 @@
-                                              ### 📊 Data Science Learning Journey
+                                           📊 Data Science Learning Journey
 * Fuelled by curiosity and plenty of unstoppable self-learning — building a solid foundation in data science through structured courses, real-world projects, and graduate study.
 
 #### 🎓 Graduate Studies — Data Science (University of Pittsburgh):
