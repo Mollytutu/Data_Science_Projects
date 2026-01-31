@@ -17,7 +17,7 @@ Tableau (interactive dashboards, visual storytelling)
 🧠 CS & AI Foundations:\
 LLM: built multi-agent systems by using libraries to link specialized agents to an LLM, which uses its underlying neural network layers to turn complex data into coordinated, intelligent actions.\
 
-IBM Deep Learning Courses: mastered the development and deployment of deep learning models using Keras, PyTorch, and TensorFlow, gaining hands-on experience in building advanced neural architectures like CNNs, RNNs, and Transformers for real-world computer vision and natural language processing tasks.
+IBM Deep Learning Courses: mastered the development and deployment of deep learning models using Keras, PyTorch, and TensorFlow, gaining hands-on experience in building advanced neural architectures like CNNs, RNNs, and Transformers for real-world computer vision and natural language processing tasks.\
 
 CS50x: Computer Science basics (C, Python, data structures, algorithms)\
 CS50 Python: OOP, testing, file I/O\
