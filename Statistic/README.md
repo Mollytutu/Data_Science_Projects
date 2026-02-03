@@ -1,1 +1,2 @@
-What I Learned of Stattistic 
+What I Learned of Stattistic. I will update later
+
